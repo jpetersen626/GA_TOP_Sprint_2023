@@ -13,7 +13,8 @@ In vitro diagnostic (IVD) tests, such as SARS-CoV-2 or COVID-19 tests, are criti
 We challenge teams to ***<ins>create tools that integrate emerging technologies, such as image capture and IoT, into IVD testing devices, to help easily capture and transmit this information, while doing so in accordance with best practice data standards.</ins>***
 
 
-# Streamlit COVID image model app: 
+# Streamlit App: 
+COVID Image Model Classification:
 https://gatopsprint2023-hjhfyeiconra8y36qrkewd.streamlit.app/
 
 This app was built to demonstrate what a COVID image model could do for reporting results.
