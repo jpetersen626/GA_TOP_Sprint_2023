@@ -11,3 +11,8 @@ We challenge sprint teams to ***<ins>create tools and digital resources that inc
 2. **Challenge #2:** <br><br>
 In vitro diagnostic (IVD) tests, such as SARS-CoV-2 or COVID-19 tests, are critical data sources for the healthcare ecosystem. ***But with the advent of new at-anywhere and non-lab based tests, capturing data these tests generate requires innovation and new digital technologies.*** <br><br>
 We challenge teams to ***<ins>create tools that integrate emerging technologies, such as image capture and IoT, into IVD testing devices, to help easily capture and transmit this information, while doing so in accordance with best practice data standards.</ins>***
+
+
+Streamlit COVID image model app: https://gatopsprint2023-hjhfyeiconra8y36qrkewd.streamlit.app/
+
+This app was built to demonstrate what a COVID image model could do for reporting results.
