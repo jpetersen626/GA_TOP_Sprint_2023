@@ -161,4 +161,4 @@ cython_debug/
 
 all data (all large files)
 /data/
-model_test/
+model_test/images/
