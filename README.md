@@ -11,3 +11,19 @@ We challenge sprint teams to ***<ins>create tools and digital resources that inc
 2. **Challenge #2:** <br><br>
 In vitro diagnostic (IVD) tests, such as SARS-CoV-2 or COVID-19 tests, are critical data sources for the healthcare ecosystem. ***But with the advent of new at-anywhere and non-lab based tests, capturing data these tests generate requires innovation and new digital technologies.*** <br><br>
 We challenge teams to ***<ins>create tools that integrate emerging technologies, such as image capture and IoT, into IVD testing devices, to help easily capture and transmit this information, while doing so in accordance with best practice data standards.</ins>***
+
+# Tableau Dashboard
+https://public.tableau.com/views/GAxTOPVisuals/SocialVulnerabilityIndex?:language=en-US&:display_count=n&:origin=viz_share_link
+
+I built this dashboard using federal COVID data.
+
+Datasets used:
+
+1. CDC SVI Documentation 2020: https://www.atsdr.cdc.gov/placeandhealth/svi/documentation/SVI_documentation_2020.html
+2. COVID-19 Case Surveillance Public Use Data with Geography: https://data.cdc.gov/Case-Surveillance/COVID-19-Case-Surveillance-Public-Use-Data-with-Ge/n8mc-b4w4
+
+# Streamlit App: 
+COVID Image Model Classification:
+https://gatopsprint2023-hjhfyeiconra8y36qrkewd.streamlit.app/
+
+This app was built to demonstrate what a COVID image model could do for reporting results.
